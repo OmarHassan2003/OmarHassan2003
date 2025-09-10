@@ -6,7 +6,7 @@
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=github&locale=en&border_radius=10" alt="OmarHassan2003" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; align-items: flex-start;">
