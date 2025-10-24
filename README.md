@@ -1,17 +1,17 @@
 <h1 align="center">Hello there, I'm Omar Hassan</h1>
-<h3 align="center">I'm a passionate front-end web developer studying Computer Engineering at Cairo University</h3>
+<h3 align="center">I'm a passionate back-end web developer studying Computer Engineering at Cairo University</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="510px" height="330px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width=60% height=60%/>
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=github&locale=en&border_radius=10&count_private=false" alt="OmarHassan2003" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=material-palenight&locale=en&border_radius=10" alt="OmarHassan2003" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; align-items: flex-start;">
-  <img src="https://streak-stats.demolab.com?user=OmarHassan2003&locale=en&mode=daily&theme=github&border_radius=10&order=2" height="166" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHassan2003&show_icons=true&locale=en&border_radius=10&layout=compact&theme=github&count_private=false" alt="OmarHassan2003" />
+  <img src="https://streak-stats.demolab.com?user=OmarHassan2003&locale=en&mode=daily&theme=material-palenight&border_radius=10&order=2" height="166" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHassan2003&show_icons=true&locale=en&border_radius=10&layout=compact&theme=material-palenight" alt="OmarHassan2003" />
 </div>
 
 <h3 align="left">Get in touch with me</h3>
