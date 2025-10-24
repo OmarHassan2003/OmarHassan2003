@@ -6,12 +6,12 @@
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=github&locale=en&border_radius=10" alt="OmarHassan2003" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=github&locale=en&border_radius=10&cache_bust=1" alt="OmarHassan2003" />
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; align-items: flex-start;">
   <img src="https://streak-stats.demolab.com?user=OmarHassan2003&locale=en&mode=daily&theme=github&border_radius=10&order=2" height="166" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHassan2003&show_icons=true&locale=en&border_radius=10&layout=compact&theme=github" alt="OmarHassan2003" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHassan2003&show_icons=true&locale=en&border_radius=10&layout=compact&theme=github&cache_bust=1" alt="OmarHassan2003" />
 </div>
 
 <h3 align="left">Get in touch with me</h3>
