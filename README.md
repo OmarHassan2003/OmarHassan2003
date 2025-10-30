@@ -10,7 +10,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px; flex-wrap: wrap; align-items: center;">
-  <img src="https://streak-stats.demolab.com/?user=OmarHassan2003&theme=material-palenight" height="166" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com/?user=OmarHassan2003&theme=vue" height="166" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OmarHassan2003&show_icons=true&locale=en&border_radius=10&layout=compact&theme=material-palenight" height="168" alt="OmarHassan2003" />
 </div>
 
