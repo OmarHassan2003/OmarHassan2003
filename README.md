@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width=60% height=60%/>
 </div>
 
-<p align="center" style="margin-top: 20px; padding-top:15px">
+<p align="center" style="margin-top: 20px; padding-top:15px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmarHassan2003&show_icons=true&theme=material-palenight&locale=en&border_radius=10" alt="OmarHassan2003" />
 </p>
 
